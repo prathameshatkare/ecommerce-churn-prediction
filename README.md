@@ -114,9 +114,9 @@ Incorporated best practices from the provided research paper to guide feature en
 
 For any queries, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Prathamesh Atkare
+- **Email**: prathmeshatkare07@gmail.com
+- **GitHub**: (https://github.com/prathameshatkare)
 
 ---
 
